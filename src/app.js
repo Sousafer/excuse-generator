@@ -12,7 +12,7 @@ window.onload = () => {
 };
 
 let generateExcuse = () => {
-  let who = ["A clown", "My cat", "A bear", "Naruto"];
+  let who = ["A clown", "My cat", "A bear", "A doggit c"];
   let action = ["destroyed", "burned", "ate", "jump on"];
   let what = ["my car", "my ps5", "my bed", "my pc"];
 
